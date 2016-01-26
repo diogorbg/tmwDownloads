@@ -3,7 +3,7 @@ Arquivos do projeto TMWB-R para download
 
 ## Clang [(Download)](../../raw/master/clang-master.zip)
 
-Compilador clang e bibliotecas para a compilação do tmwCronus no Windows.
+Compilador clang e bibliotecas para a compilação do [tmwCronus](../../../tmwCronus) no Windows.
 
  * Descompacte o conteúdo em uma pasta separada (Certifique-se que o caminho não possua espaços)
  * (Versões após ao Windows Vista) Execute como administrador o arquivo Cronus.bat localizado na pasta do compilador. Irá surgir uma janela do DOS indicando o status da operação. Caso apareça "ÊXITO", tudo ocorreu conforme o esperado. Feche a janela.
